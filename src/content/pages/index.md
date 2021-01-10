@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Static Noise
 tagline: Ben March
-featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
+featuredImage: /assets/fuzzedwaveform.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
