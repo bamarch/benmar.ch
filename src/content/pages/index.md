@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Static Noise
+tagline: Ben March
+featuredImage: /assets/mike-dorner-sf_1ZDA1YFw-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Cloud engineer, darts player, drum and bass enthusiast based in Bristol, UK. Working on an intelligent energy platform as a Site Reliability Engineer at Kaluza. Views expressed are his own.
