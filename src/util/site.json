@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "benmar.ch",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Built with Gatsby and Netlify CMS, template made with ❤ by Stackrole.",
+    "siteUrl": "https://benmar.ch",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@benjaminmarch"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-TFYWRB6971"
 }
